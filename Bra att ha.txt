@@ -1,0 +1,14 @@
+
+Vecka 35
+Lektion 1:  Installation & test av utvecklingsmiljö.  Externa paket. Kontrollstrukturer.  
+
+Lektion 2: Programmets flöde, variabler, datatyper, aritmetiska & logiska operatorer.
+
+Lektion 3: Språkets inbyggd funktionalitet och strängar.
+
+
+
+
+
+
+
