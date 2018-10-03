@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\PreParandP1\Lektion\obj\Debug\Lektion2.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\PreParandP1\Lektion\obj\Debug\Lektion2.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\PreParandP1\Lektion\bin\Debug\Lektion.exe.config
+C:\Users\miche\source\repos\PreParandP1\Lektion\bin\Debug\Lektion.exe
+C:\Users\miche\source\repos\PreParandP1\Lektion\bin\Debug\Lektion.pdb
+C:\Users\miche\source\repos\PreParandP1\Lektion\obj\Debug\Lektion.exe
+C:\Users\miche\source\repos\PreParandP1\Lektion\obj\Debug\Lektion.pdb

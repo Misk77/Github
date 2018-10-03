@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\bin\Debug\cSharpOnSwedish.exe.config
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\bin\Debug\cSharpOnSwedish.exe
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\bin\Debug\cSharpOnSwedish.pdb
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\obj\Debug\cSharpOnSwedish.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\obj\Debug\cSharpOnSwedish.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\obj\Debug\cSharpOnSwedish.exe
+C:\Users\miche\source\repos\cSharpOnSwedish\cSharpOnSwedish\obj\Debug\cSharpOnSwedish.pdb

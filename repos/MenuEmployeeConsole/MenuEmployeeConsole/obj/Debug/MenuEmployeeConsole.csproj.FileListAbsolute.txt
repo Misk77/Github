@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\bin\Debug\MenuEmployeeConsole.exe.config
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\bin\Debug\MenuEmployeeConsole.exe
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\bin\Debug\MenuEmployeeConsole.pdb
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\obj\Debug\MenuEmployeeConsole.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\obj\Debug\MenuEmployeeConsole.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\obj\Debug\MenuEmployeeConsole.exe
+C:\Users\miche\source\repos\MenuEmployeeConsole\MenuEmployeeConsole\obj\Debug\MenuEmployeeConsole.pdb

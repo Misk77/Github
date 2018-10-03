@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\bin\Debug\8.Methods.exe.config
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\bin\Debug\8.Methods.exe
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\bin\Debug\8.Methods.pdb
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\obj\Debug\8.Methods.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\obj\Debug\8.Methods.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\obj\Debug\8.Methods.exe
+C:\Users\miche\source\repos\HowToProgramInCSharp\8.Methods\obj\Debug\8.Methods.pdb

@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\bin\Debug\ClassMethodExerice.exe.config
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\bin\Debug\ClassMethodExerice.exe
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\bin\Debug\ClassMethodExerice.pdb
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\obj\Debug\ClassMethodExerice.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\obj\Debug\ClassMethodExerice.exe
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\obj\Debug\ClassMethodExerice.pdb
+C:\Users\miche\source\repos\ClassMethodExerice\ClassMethodExerice\obj\Debug\ClassMethodExerice.csprojResolveAssemblyReference.cache

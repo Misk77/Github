@@ -1,0 +1,11 @@
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\netstandard2.0\DefuseBomb.deps.json
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\netstandard2.0\DefuseBomb.dll
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\bin\Debug\netstandard2.0\DefuseBomb.pdb
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.App.xaml.g.cs
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.MainPage.xaml.g.cs
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.AssemblyInfoInputs.cache
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.AssemblyInfo.cs
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.dll
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.pdb
+C:\Users\miche\source\repos\DefuseBomb\DefuseBomb\DefuseBomb\obj\Debug\netstandard2.0\DefuseBomb.csprojResolveAssemblyReference.cache

@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\obj\Debug\TrainingPage.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\obj\Debug\TrainingPage.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\bin\Debug\TrainingPage.exe.config
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\bin\Debug\TrainingPage.exe
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\bin\Debug\TrainingPage.pdb
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\obj\Debug\TrainingPage.exe
+C:\Users\miche\source\repos\PreParandP1\TrainingPage\obj\Debug\TrainingPage.pdb

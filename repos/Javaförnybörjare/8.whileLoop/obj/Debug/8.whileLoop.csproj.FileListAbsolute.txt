@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\bin\Debug\8.whileLoop.exe.config
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\bin\Debug\8.whileLoop.exe
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\bin\Debug\8.whileLoop.pdb
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\obj\Debug\8.whileLoop.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\obj\Debug\8.whileLoop.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\obj\Debug\8.whileLoop.exe
+C:\Users\miche\source\repos\Javaförnybörjare\8.whileLoop\obj\Debug\8.whileLoop.pdb

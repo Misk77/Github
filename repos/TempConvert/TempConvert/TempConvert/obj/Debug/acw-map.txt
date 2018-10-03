@@ -1,0 +1,4 @@
+TempConvert.MainActivity, TempConvert;md5b3011df27544f45519c3711efb004c22.MainActivity
+TempConvert.MainActivity, TempConvert, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5b3011df27544f45519c3711efb004c22.MainActivity
+TempConvert.MainActivity;md5b3011df27544f45519c3711efb004c22.MainActivity
+tempconvert.MainActivity;md5b3011df27544f45519c3711efb004c22.MainActivity

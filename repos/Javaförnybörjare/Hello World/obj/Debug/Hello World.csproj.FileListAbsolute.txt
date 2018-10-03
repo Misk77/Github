@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\bin\Debug\Hello World.exe.config
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\bin\Debug\Hello World.exe
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\bin\Debug\Hello World.pdb
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\obj\Debug\Hello World.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\obj\Debug\Hello World.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\obj\Debug\Hello World.exe
+C:\Users\miche\source\repos\Javaförnybörjare\Hello World\obj\Debug\Hello World.pdb

@@ -1,0 +1,22 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ConsoleApp1
+{
+    class _3
+    {
+	//  3. Lektion
+
+	// Int, heltal Integers - 3, 45, 100 101, ....osv
+	// float, decimal, double - flutttal, tal med decimaler, olika presicion
+	// String, strängar - text sträng , med appostroffer "HEj" "Hello World""
+
+
+
+
+
+    }
+}

@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\bin\Debug\IF-Statment.exe.config
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\bin\Debug\IF-Statment.exe
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\bin\Debug\IF-Statment.pdb
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\obj\Debug\IF-Statment.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\obj\Debug\IF-Statment.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\obj\Debug\IF-Statment.exe
+C:\Users\miche\source\repos\HowToProgramInCSharp\IF-Statment\obj\Debug\IF-Statment.pdb

@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\bin\Debug\GrunderCSharp.exe.config
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\bin\Debug\GrunderCSharp.exe
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\bin\Debug\GrunderCSharp.pdb
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\obj\Debug\GrunderCSharp.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\obj\Debug\GrunderCSharp.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\obj\Debug\GrunderCSharp.exe
+C:\Users\miche\source\repos\GrunderCSharp\GrunderCSharp\obj\Debug\GrunderCSharp.pdb

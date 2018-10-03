@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\bin\Debug\Method2.exe.config
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\bin\Debug\Method2.exe
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\bin\Debug\Method2.pdb
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\obj\Debug\Method2.exe
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\obj\Debug\Method2.pdb
+C:\Users\miche\source\repos\HowToProgramInCSharp\Method2\obj\Debug\Method2.csprojResolveAssemblyReference.cache

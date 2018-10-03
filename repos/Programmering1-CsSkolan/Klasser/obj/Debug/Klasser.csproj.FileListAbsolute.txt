@@ -1,0 +1,7 @@
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\bin\Debug\Klasser.exe.config
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\bin\Debug\Klasser.exe
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\bin\Debug\Klasser.pdb
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\obj\Debug\Klasser.csprojResolveAssemblyReference.cache
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\obj\Debug\Klasser.csproj.CoreCompileInputs.cache
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\obj\Debug\Klasser.exe
+C:\Users\miche\source\repos\Programmering1-CSharp\Klasser\obj\Debug\Klasser.pdb
