@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\bin\Debug\16.ConstructorandDestructors.exe.config
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\bin\Debug\16.ConstructorandDestructors.exe
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\bin\Debug\16.ConstructorandDestructors.pdb
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\obj\Debug\16.ConstructorandDestructors.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\obj\Debug\16.ConstructorandDestructors.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\obj\Debug\16.ConstructorandDestructors.exe
-C:\Users\miche\source\repos\ProgrammingKnowledge\16.ConstructorandDestructors\obj\Debug\16.ConstructorandDestructors.pdb

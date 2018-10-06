@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\bin\Debug\KodarApanLearnCSharp.exe.config
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\bin\Debug\KodarApanLearnCSharp.exe
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\bin\Debug\KodarApanLearnCSharp.pdb
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\obj\Debug\KodarApanLearnCSharp.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\obj\Debug\KodarApanLearnCSharp.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\obj\Debug\KodarApanLearnCSharp.exe
-C:\Users\miche\source\repos\KodarApanLearnCSharp\KodarApanLearnCSharp\obj\Debug\KodarApanLearnCSharp.pdb

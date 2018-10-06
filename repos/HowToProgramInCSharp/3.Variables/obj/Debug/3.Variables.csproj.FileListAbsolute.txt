@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\bin\Debug\3.Variables.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\bin\Debug\3.Variables.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\bin\Debug\3.Variables.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\obj\Debug\3.Variables.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\obj\Debug\3.Variables.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\obj\Debug\3.Variables.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\3.Variables\obj\Debug\3.Variables.csprojResolveAssemblyReference.cache

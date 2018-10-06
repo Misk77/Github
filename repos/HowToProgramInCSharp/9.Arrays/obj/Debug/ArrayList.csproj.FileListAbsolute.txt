@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\bin\Debug\9.Arrays.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\bin\Debug\9.Arrays.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\bin\Debug\9.Arrays.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\obj\Debug\ArrayList.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\obj\Debug\ArrayList.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\obj\Debug\9.Arrays.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\9.Arrays\obj\Debug\9.Arrays.pdb

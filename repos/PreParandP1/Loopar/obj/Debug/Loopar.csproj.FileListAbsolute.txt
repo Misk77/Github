@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\PreParandP1\Loopar\bin\Debug\Loopar.exe.config
-C:\Users\miche\source\repos\PreParandP1\Loopar\bin\Debug\Loopar.exe
-C:\Users\miche\source\repos\PreParandP1\Loopar\bin\Debug\Loopar.pdb
-C:\Users\miche\source\repos\PreParandP1\Loopar\obj\Debug\Loopar.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\PreParandP1\Loopar\obj\Debug\Loopar.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\PreParandP1\Loopar\obj\Debug\Loopar.exe
-C:\Users\miche\source\repos\PreParandP1\Loopar\obj\Debug\Loopar.pdb

@@ -1,6 +1,0 @@
-C:\Users\miche\source\repos\Javaförnybörjare\Matematik\bin\Debug\Matematik.exe.config
-C:\Users\miche\source\repos\Javaförnybörjare\Matematik\bin\Debug\Matematik.exe
-C:\Users\miche\source\repos\Javaförnybörjare\Matematik\bin\Debug\Matematik.pdb
-C:\Users\miche\source\repos\Javaförnybörjare\Matematik\obj\Debug\Matematik.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\Javaförnybörjare\Matematik\obj\Debug\Matematik.exe
-C:\Users\miche\source\repos\Javaförnybörjare\Matematik\obj\Debug\Matematik.pdb

@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\bin\Debug\HowToProgramInCSharp.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\bin\Debug\HowToProgramInCSharp.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\bin\Debug\HowToProgramInCSharp.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\obj\Debug\HowToProgramInCSharp.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\obj\Debug\HowToProgramInCSharp.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\obj\Debug\HowToProgramInCSharp.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\HowToProgramInCSharp\obj\Debug\HowToProgramInCSharp.pdb

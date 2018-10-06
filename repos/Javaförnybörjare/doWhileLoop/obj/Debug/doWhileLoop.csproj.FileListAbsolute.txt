@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\bin\Debug\doWhileLoop.exe.config
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\bin\Debug\doWhileLoop.exe
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\bin\Debug\doWhileLoop.pdb
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\obj\Debug\doWhileLoop.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\obj\Debug\doWhileLoop.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\obj\Debug\doWhileLoop.exe
-C:\Users\miche\source\repos\Javaförnybörjare\doWhileLoop\obj\Debug\doWhileLoop.pdb

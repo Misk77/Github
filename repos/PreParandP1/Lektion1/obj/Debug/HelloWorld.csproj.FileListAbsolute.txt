@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\PreParandP1\Lektion1\bin\Debug\Lektion1.exe.config
-C:\Users\miche\source\repos\PreParandP1\Lektion1\bin\Debug\Lektion1.exe
-C:\Users\miche\source\repos\PreParandP1\Lektion1\bin\Debug\Lektion1.pdb
-C:\Users\miche\source\repos\PreParandP1\Lektion1\obj\Debug\HelloWorld.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\PreParandP1\Lektion1\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\PreParandP1\Lektion1\obj\Debug\Lektion1.exe
-C:\Users\miche\source\repos\PreParandP1\Lektion1\obj\Debug\Lektion1.pdb

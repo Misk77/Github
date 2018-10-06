@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\bin\Debug\Javaförnybörjare.exe.config
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\bin\Debug\Javaförnybörjare.exe
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\bin\Debug\Javaförnybörjare.pdb
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\obj\Debug\Javaförnybörjare.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\obj\Debug\Javaförnybörjare.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\obj\Debug\Javaförnybörjare.exe
-C:\Users\miche\source\repos\Javaförnybörjare\Javaförnybörjare\obj\Debug\Javaförnybörjare.pdb

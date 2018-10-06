@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\bin\Debug\5.Switch.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\bin\Debug\5.Switch.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\bin\Debug\5.Switch.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\obj\Debug\5.Switch.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\obj\Debug\5.Switch.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\obj\Debug\5.Switch.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\5.Switch\obj\Debug\5.Switch.csprojResolveAssemblyReference.cache

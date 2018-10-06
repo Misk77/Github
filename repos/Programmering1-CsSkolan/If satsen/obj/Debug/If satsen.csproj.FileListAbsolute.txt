@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\bin\Debug\If satsen.exe.config
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\bin\Debug\If satsen.exe
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\bin\Debug\If satsen.pdb
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\obj\Debug\If satsen.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\obj\Debug\If satsen.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\obj\Debug\If satsen.exe
-C:\Users\miche\source\repos\Programmering1-CSharp\If satsen\obj\Debug\If satsen.pdb

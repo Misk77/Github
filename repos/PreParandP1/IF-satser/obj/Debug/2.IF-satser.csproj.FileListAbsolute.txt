@@ -1,6 +1,0 @@
-C:\Users\miche\source\repos\PreParandP1\IF-satser\bin\Debug\IF-satser.exe.config
-C:\Users\miche\source\repos\PreParandP1\IF-satser\bin\Debug\IF-satser.exe
-C:\Users\miche\source\repos\PreParandP1\IF-satser\bin\Debug\IF-satser.pdb
-C:\Users\miche\source\repos\PreParandP1\IF-satser\obj\Debug\2.IF-satser.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\PreParandP1\IF-satser\obj\Debug\IF-satser.exe
-C:\Users\miche\source\repos\PreParandP1\IF-satser\obj\Debug\IF-satser.pdb

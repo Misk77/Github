@@ -1,6 +1,0 @@
-C:\Users\miche\source\repos\PreParandP1\PreParandP1\bin\Debug\PreParandP1.exe.config
-C:\Users\miche\source\repos\PreParandP1\PreParandP1\bin\Debug\PreParandP1.exe
-C:\Users\miche\source\repos\PreParandP1\PreParandP1\bin\Debug\PreParandP1.pdb
-C:\Users\miche\source\repos\PreParandP1\PreParandP1\obj\Debug\PreParandP1.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\PreParandP1\PreParandP1\obj\Debug\PreParandP1.exe
-C:\Users\miche\source\repos\PreParandP1\PreParandP1\obj\Debug\PreParandP1.pdb

@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\bin\Debug\Programmering1-CSharp.exe.config
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\bin\Debug\Programmering1-CSharp.exe
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\bin\Debug\Programmering1-CSharp.pdb
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\obj\Debug\Programmering1-CSharp.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\obj\Debug\Programmering1-CSharp.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\obj\Debug\Programmering1-CSharp.exe
-C:\Users\miche\source\repos\Programmering1-CSharp\Programmering1-CSharp\obj\Debug\Programmering1-CSharp.pdb

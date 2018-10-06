@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\bin\Debug\MethodInClass.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\bin\Debug\MethodInClass.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\bin\Debug\MethodInClass.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\obj\Debug\MethodInClass.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\obj\Debug\MethodInClass.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\obj\Debug\MethodInClass.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\MethodInClass\obj\Debug\MethodInClass.pdb

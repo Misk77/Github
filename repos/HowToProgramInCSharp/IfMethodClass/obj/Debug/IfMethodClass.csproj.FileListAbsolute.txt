@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\bin\Debug\IfMethodClass.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\bin\Debug\IfMethodClass.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\bin\Debug\IfMethodClass.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\obj\Debug\IfMethodClass.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\obj\Debug\IfMethodClass.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\obj\Debug\IfMethodClass.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\IfMethodClass\obj\Debug\IfMethodClass.pdb

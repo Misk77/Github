@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\bin\Debug\If-satser.exe.config
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\bin\Debug\If-satser.exe
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\bin\Debug\If-satser.pdb
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\obj\Debug\If-satser.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\obj\Debug\If-satser.exe
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\obj\Debug\If-satser.pdb
-C:\Users\miche\source\repos\Javaförnybörjare\If-satser\obj\Debug\If-satser.csprojResolveAssemblyReference.cache

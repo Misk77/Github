@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\bin\Debug\10.Classes.exe.config
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\bin\Debug\10.Classes.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\bin\Debug\10.Classes.pdb
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\obj\Debug\10.Classes.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\obj\Debug\10.Classes.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\obj\Debug\10.Classes.exe
-C:\Users\miche\source\repos\HowToProgramInCSharp\10.Classes\obj\Debug\10.Classes.pdb

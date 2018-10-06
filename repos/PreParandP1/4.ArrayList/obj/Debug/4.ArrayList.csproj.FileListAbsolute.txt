@@ -1,7 +1,0 @@
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\bin\Debug\4.ArrayList.exe.config
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\bin\Debug\4.ArrayList.exe
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\bin\Debug\4.ArrayList.pdb
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\obj\Debug\4.ArrayList.csprojResolveAssemblyReference.cache
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\obj\Debug\4.ArrayList.csproj.CoreCompileInputs.cache
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\obj\Debug\4.ArrayList.exe
-C:\Users\miche\source\repos\PreParandP1\4.ArrayList\obj\Debug\4.ArrayList.pdb
